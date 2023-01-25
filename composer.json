@@ -1,5 +1,5 @@
 {
-  "name": "do6po/laravel-jodit",
+  "name": "ak/laravel-jodit",
   "description": "An easy way to use the Jodit editor with your Laravel Api service.",
   "type": "library",
   "version": "1.0.4",
